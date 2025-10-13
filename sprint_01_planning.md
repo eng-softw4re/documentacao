@@ -15,7 +15,7 @@
 1. Requisitos funcionais
   * Manter usuário (Riam)
   * Manter veículos (José)
-  * Manter proncedimentos (Riam)
+  * Manter proncedimentos (Ariadny)
   * Manter insumos (Ariadny)
   * Manter ordem de serviço (Riam)
   * Gerar relatório (José)
