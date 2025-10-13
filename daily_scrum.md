@@ -2,6 +2,159 @@
 
 ---
 
+*** 13/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Criou o crud de Clientes
+- **O que eu vou fazer hoje:** Planejar a terceira Sprint
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Fork do projeto e organizou ambiente de trabalho
+- **O que eu vou fazer hoje:** Planejar a terceira Sprint
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Fork do projeto e organizou ambiente de trabalho
+- **O que eu vou fazer hoje:** Planejar a terceira Sprint
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 11/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Definimos ferramentas que usaremos no projeto
+- **O que eu vou fazer hoje:** Criação do repositório e ambiente de desenvolvimento
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Definimos ferramentas que usaremos no projeto
+- **O que eu vou fazer hoje:** Fazer fork do projeto e organizar seu ambiente de desenvolvimento
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Definimos ferramentas que usaremos no projeto
+- **O que eu vou fazer hoje:** Fazer fork do projeto e organizar seu ambiente de desenvolvimento
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 09/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Repassamos apresentação da dinâmica
+- **O que eu vou fazer hoje:** Apresentação da Dinâmica
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Repassamos apresentação da dinâmica
+- **O que eu vou fazer hoje:** Apresentação da Dinâmica
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Repassamos apresentação da dinâmica
+- **O que eu vou fazer hoje:** Apresentação da Dinâmica
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 06/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** --
+- **O que eu vou fazer hoje:** Repassamos formato da apresentação sobre EAP e dinâmica
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** --
+- **O que eu vou fazer hoje:** Repassamos formato da apresentação sobre EAP e dinâmica
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** --
+- **O que eu vou fazer hoje:** Repassamos formato da apresentação sobre EAP e dinâmica
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 01/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Planejamento da segunda Sprint
+- **O que eu vou fazer hoje:** --
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Planejamento da segunda Sprint
+- **O que eu vou fazer hoje:** --
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Planejamento da segunda Sprint
+- **O que eu vou fazer hoje:** --
+- **Impedimentos:** Nenhum.
+
+---
+
+
+*** 29/09/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Definimos a dinâmica
+- **O que eu vou fazer hoje:** Planejamento da segunda Sprint
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Definimos a dinâmica
+- **O que eu vou fazer hoje:** Planejamento da segunda Sprint
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Definimos a dinâmica
+- **O que eu vou fazer hoje:** Planejamento da segunda Sprint
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 29/09/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Finalização da primeira Sprint
+- **O que eu vou fazer hoje:** Pesquisa e discuções pra elaboração da dinâmica
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Finalização da primeira Sprint
+- **O que eu vou fazer hoje:** Pesquisa e discuções pra elaboração da dinâmica 
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Finalização da primeira Sprint
+- **O que eu vou fazer hoje:** Pesquisa e discuções pra elaboração da dinâmica
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 29/09/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Finalização da primeira Sprint
+- **O que eu vou fazer hoje:** Pesquisa e discuções pra elaboração da dinâmica
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Finalização da primeira Sprint
+- **O que eu vou fazer hoje:** Pesquisa e discuções pra elaboração da dinâmica 
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Finalização da primeira Sprint
+- **O que eu vou fazer hoje:** Pesquisa e discuções pra elaboração da dinâmica
+- **Impedimentos:** Nenhum.
+
+---
+
 *** 24/09/2025 ***
 
 **[Riam Stefesom]**
