@@ -6,17 +6,17 @@
 
 **[Riam Stefesom]**
 - **O que eu fiz ontem:** Criou o crud de Clientes
-- **O que eu vou fazer hoje:** Planejar a terceira Sprint
+- **O que eu vou fazer hoje:** Fazer Crud de Veículos e testar no Insomnia
 - **Impedimentos:** Nenhum.
 
 **[Ariadny Dantas]**
 - **O que eu fiz ontem:** Fork do projeto e organizou ambiente de trabalho
-- **O que eu vou fazer hoje:** Planejar a terceira Sprint
+- **O que eu vou fazer hoje:** Planejar a terceira Sprint e fazer crud de Procedimentos e testar no Insomnia
 - **Impedimentos:** Nenhum.
 
 **[José Salustiano]**
-- **O que eu fiz ontem:** Fork do projeto e organizou ambiente de trabalho
-- **O que eu vou fazer hoje:** Planejar a terceira Sprint
+- **O que eu fiz ontem:** Fork do projeto e organizou ambiente de trabalho e testar no Insomnia
+- **O que eu vou fazer hoje:** Fazer crud de Insumos e testar no Insomnia
 - **Impedimentos:** Nenhum.
 
 ---
