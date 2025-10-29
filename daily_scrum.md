@@ -2,6 +2,138 @@
 
 ---
 
+*** 27/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Criou página de Clientes com pequisa por filtro.
+- **O que eu vou fazer hoje:** Implementar outras funcionalidades do Crud de clientes no FRONT (create, delete, edit)
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Revisou conceitos e pesquisou sobre duvidas persistentes em relação ao REACT
+- **O que eu vou fazer hoje:** 
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Revisou conceitos e pesquisou sobre duvidas persistentes em relação ao REACT
+- **O que eu vou fazer hoje:** Revisar conceitos e pesquisar sobre duvidas persistentes em relação ao REACT
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 24/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Iniciou o desenvolvimento do front e das rotas de requerimentos
+- **O que eu vou fazer hoje:** Fazer página de Clientes com pequisa por filtro.
+- **Impedimentos:** Houve alguns impedimentos para conseguir essa troca de informações entre o front e o back, mas depois de muita pesquisa e teste conseguiu ser solucionadas.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Revisou a autenticação e criar métodos especiais de pagamentos e cobranças
+- **O que eu vou fazer hoje:** Revisar conceitos e pesquisar sobre duvidas persistentes em relação ao REACT
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Revisou crud de Cobranças e de Pagamentos
+- **O que eu vou fazer hoje:** Revisar conceitos e pesquisar sobre duvidas persistentes em relação ao REACT
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 22/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Implemetou a autenticação do usuário ADMIN no sistema com login e senha
+- **O que eu vou fazer hoje:** iniciar o desenvolvimento do front e das rotas de requerimentos
+- **Impedimentos:** A autenticação não estava permitindo enviar requerimentos para o django segundo testes no insomnia.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Criou Crud de Pagamentos
+- **O que eu vou fazer hoje:** Revisar a autenticação e criar métodos especiais de pagamentos e cobranças
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Revisou crud de Endereços
+- **O que eu vou fazer hoje:** Revisar crud de Cobranças e de Pagamentos
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 22/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Criou Crud de Endereços com implementação em Create Clientes
+- **O que eu vou fazer hoje:** Implemetar a autenticação do usuário ADMIN no sistema com login e senha
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Criou Crud de Cobranças
+- **O que eu vou fazer hoje:** Fazer Crud de Pagamentos
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Revisou o crud de Cobranças
+- **O que eu vou fazer hoje:** Revisar crud de Endereços
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 20/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** organizou codigo do back no django e Revisar crud de Ordem de Serviços
+- **O que eu vou fazer hoje:** Fazer Crud de Endereços e implimentar em Create Clientes
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Criou Crud de Insumos de uma Ordem de Serviço
+- **O que eu vou fazer hoje:** Fazer Crud de Cobranças
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Criou Crud de Insumos de uma ordem de serviço e fazer métodos especiais de Ordem de Serviço
+- **O que eu vou fazer hoje:** Revisar crud de Cobranças
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 17/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Revisou crud de Procedimentos
+- **O que eu vou fazer hoje:** organizar codigo do back no django e Revisar crud de Ordem de Serviços
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Criou crud de Ordem de Serviços
+- **O que eu vou fazer hoje:** Fazer Crud de Insumos de uma Ordem de Serviço
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Revisou crud de Veículos
+- **O que eu vou fazer hoje:** Revisar Crud de Insumos de uma ordem de serviço e fazer métodos especiais de Ordem de Serviço
+- **Impedimentos:** Nenhum.
+
+---
+
+*** 15/10/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Criou o crud de Veículos e testou no Insominia.
+- **O que eu vou fazer hoje:** Revisar crud de Procedimentos
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Criou o crud de Procedimentos e revisou crud de Clientes
+- **O que eu vou fazer hoje:** Fazer crud de Ordem de serviços
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Criou crud de Insumos e testou no Insomnia
+- **O que eu vou fazer hoje:** Revisar crud de Veículos
+- **Impedimentos:** Nenhum.
+---
+
 *** 13/10/2025 ***
 
 **[Riam Stefesom]**
