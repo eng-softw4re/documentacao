@@ -1,4 +1,4 @@
-# Sprint 1 - Documentar plano de automação
+# User Story US05 - Manter Procedimentos
 ## Manter Insumos
 
 |               |                                                                |
@@ -27,10 +27,10 @@
 | **Estimativa**            | 2 h                                 | 
 | **Tempo Gasto (real):**   | 30 m                                | 
 | **Tamanho Funcional**     |                                     | 
-| **Analista**              | Ariadny                             | 
-| **Desenvolvedor**         | Ariadny                             | 
-| **Revisor**               | José                                | 
-| **Testador**              | Riam                                | 
+| **Analista**              | José                                | 
+| **Desenvolvedor**         | Riam                                | 
+| **Revisor**               | Ariadny                             | 
+| **Testador**              | Ariadny                             | 
 
 ### User Story US05 - Manter Insumo
 
@@ -96,10 +96,10 @@
     <td style="padding:6px;"><strong>Responsáveis</strong></td>
     <td style="padding:6px;">
       <ul>
-        <li><strong>Analista:</strong> Ariadny</li>
-        <li><strong>Desenvolvedor:</strong> Ariadny</li>
-        <li><strong>Revisor:</strong> José</li>
-        <li><strong>Testador:</strong> Riam</li>
+        <li><strong>Analista:</strong> José</li>
+        <li><strong>Desenvolvedor:</strong> Riam</li>
+        <li><strong>Revisor:</strong> Ariadny</li>
+        <li><strong>Testador:</strong> Ariadny</li>
       </ul>
     </td>
   </tr>

@@ -1,4 +1,4 @@
-# Sprint 1 - Documentar plano de automação
+# User Story US06 - Manter Ordem de Serviço
 ## Manter Ordem de serviço
 
 |               |                                                                |
@@ -25,19 +25,19 @@
 |                           |                                     |
 | ------------------------- | ----------------------------------- | 
 | **Prioridade**            | Essencial                           | 
-| **Estimativa**            | 2 h                                 | 
-| **Tempo Gasto (real):**   | 1:30 h                                 | 
+| **Estimativa**            | 15 h                                | 
+| **Tempo Gasto (real):**   | 1:30 h                              | 
 | **Tamanho Funcional**     |                                     | 
-| **Analista**              | Riam                                | 
-| **Desenvolvedor**         | Riam                                | 
-| **Revisor**               | Ariadny                             | 
-| **Testador**              | José                                | 
+| **Analista**              | José                                | 
+| **Desenvolvedor**         | Ariadny                             | 
+| **Revisor**               | Riam                                | 
+| **Testador**              | Riam                                | 
 
 ### User Story US02 - Manter Projeto
 
 <table>
   <tr>
-    <th colspan="2" style="text-align:left;background:#e0e0e0;padding:8px;">📌 User Story - US04</th>
+    <th colspan="2" style="text-align:left;background:#e0e0e0;padding:8px;">📌 User Story - US06</th>
   </tr>
   <tr>
     <td style="width:25%;padding:6px;"><strong>Título</strong></td>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td style="padding:6px;"><strong>Identificação</strong></td>
-    <td style="padding:6px;">US4 - Manter ordem de serviço</td>
+    <td style="padding:6px;">US6 - Manter ordem de serviço</td>
   </tr>
   <tr>
     <td style="padding:6px;"><strong>Story</strong></td>
@@ -99,10 +99,10 @@
     <td style="padding:6px;"><strong>Responsáveis</strong></td>
     <td style="padding:6px;">
       <ul>
-        <li><strong>Analista:</strong> Riam</li>
-        <li><strong>Desenvolvedor:</strong> Riam</li>
-        <li><strong>Revisor:</strong> Ariadny</li>
-        <li><strong>Testador:</strong> José</li>
+        <li><strong>Analista:</strong> José</li>
+        <li><strong>Desenvolvedor:</strong> Ariadny</li>
+        <li><strong>Revisor:</strong> Riam</li>
+        <li><strong>Testador:</strong> Riam</li>
       </ul>
     </td>
   </tr>

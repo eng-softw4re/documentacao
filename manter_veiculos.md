@@ -1,4 +1,4 @@
-# Sprint 1 - Documentar plano de automação
+# User Story US03 - Manter Veiculo
 ## Manter veículo
 
 |               |                                                                |
@@ -27,16 +27,16 @@
 | **Estimativa**            | 2 h                                 | 
 | **Tempo Gasto (real):**   | 30 m                                | 
 | **Tamanho Funcional**     |                                     | 
-| **Analista**              | José                                | 
-| **Desenvolvedor**         | José                                | 
-| **Revisor**               | Ariadny                             | 
-| **Testador**              | Riam                                | 
+| **Analista**              | Riam                                | 
+| **Desenvolvedor**         | Ariadny                             | 
+| **Revisor**               | José                                | 
+| **Testador**              | José                                | 
 
 ### User Story US02 - Manter Projeto
 
 <table>
   <tr>
-    <th colspan="2" style="text-align:left;background:#e0e0e0;padding:8px;">📌 User Story - US02</th>
+    <th colspan="2" style="text-align:left;background:#e0e0e0;padding:8px;">📌 User Story - US03</th>
   </tr>
   <tr>
     <td style="width:25%;padding:6px;"><strong>Título</strong></td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td style="padding:6px;"><strong>Identificação</strong></td>
-    <td style="padding:6px;">US02 - Manter veículo</td>
+    <td style="padding:6px;">US03 - Manter veículo</td>
   </tr>
   <tr>
     <td style="padding:6px;"><strong>Story</strong></td>
@@ -96,10 +96,10 @@
     <td style="padding:6px;"><strong>Responsáveis</strong></td>
     <td style="padding:6px;">
       <ul>
-        <li><strong>Analista:</strong> José</li>
-        <li><strong>Desenvolvedor:</strong> José</li>
-        <li><strong>Revisor:</strong> Ariadny</li>
-        <li><strong>Testador:</strong> Riam</li>
+        <li><strong>Analista:</strong> Riam</li>
+        <li><strong>Desenvolvedor:</strong> Ariadny</li>
+        <li><strong>Revisor:</strong> José</li>
+        <li><strong>Testador:</strong> José</li>
       </ul>
     </td>
   </tr>

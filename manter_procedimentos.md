@@ -1,4 +1,4 @@
-# Sprint 1 - Documentar plano de automação
+# User Story US04 - Manter Procedimentos
 ## Manter procedimentos
 
 |               |                                                                |
@@ -28,16 +28,16 @@
 | **Estimativa**            | 2 h                                 | 
 | **Tempo Gasto (real):**   | 30m                                 | 
 | **Tamanho Funcional**     |                                     | 
-| **Analista**              | Ariadny                             | 
-| **Desenvolvedor**         | Ariadny                             | 
-| **Revisor**               | Riam                                | 
-| **Testador**              | José                                | 
+| **Analista**              | Riam                                | 
+| **Desenvolvedor**         | José                                | 
+| **Revisor**               | Ariadny                             | 
+| **Testador**              | Ariadny                             | 
 
 ### User Story US02 - Manter Projeto
 
 <table>
   <tr>
-    <th colspan="2" style="text-align:left;background:#e0e0e0;padding:8px;">📌 User Story - US03</th>
+    <th colspan="2" style="text-align:left;background:#e0e0e0;padding:8px;">📌 User Story - US04</th>
   </tr>
   <tr>
     <td style="width:25%;padding:6px;"><strong>Título</strong></td>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td style="padding:6px;"><strong>Identificação</strong></td>
-    <td style="padding:6px;">US03 - Manter procedimento</td>
+    <td style="padding:6px;">US04 - Manter procedimento</td>
   </tr>
   <tr>
     <td style="padding:6px;"><strong>Story</strong></td>
@@ -97,10 +97,10 @@
     <td style="padding:6px;"><strong>Responsáveis</strong></td>
     <td style="padding:6px;">
       <ul>
-        <li><strong>Analista:</strong> Ariandy</li>
-        <li><strong>Desenvolvedor:</strong> Ariandy</li>
-        <li><strong>Revisor:</strong> Riam</li>
-        <li><strong>Testador:</strong> José</li>
+        <li><strong>Analista:</strong> Riam</li>
+        <li><strong>Desenvolvedor:</strong> José</li>
+        <li><strong>Revisor:</strong> Ariadny</li>
+        <li><strong>Testador:</strong> Ariadny</li>
       </ul>
     </td>
   </tr>

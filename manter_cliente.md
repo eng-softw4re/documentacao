@@ -1,18 +1,18 @@
-# User Story US01 - Manter Usuário
-## Manter usuário
+# User Story US02 - Manter Cliente
+## Manter Cliente
 
 |               |                                                                |
 | ------------- | :------------------------------------------------------------- |
-| **Descrição** | O sistema deve manter um cadastro de usuário. Um usuário tem os atributos nome, CPF, email, telefone e endereço. O sistema não terá mecanismo de login, o administrador (adm) do sistema será responsável por cadastrar o usuário. Além disso o adm poderá alterar alguns dados, como o e-mail ou nome. O administrador do sistema pode realizar as operações de adicionar, alterar, remover e listar os usuários comuns do sistema. |
+| **Descrição** | O sistema deve permitir que o Administrador possa cadastrar, consultar, atualizar e excluir os registros de clientes , para poder organizar e acessar rapidamente suas informações principais (Nome, CPF, Data de Nascimento, Endereço e Telefone). Como também vincular esse cliente a um veículo e consequentemente ordens de serviços.|
 
 
 | **Requisitos envolvidos** |                                                    |
 | ------------- | :------------------------------------------------------------- |
-| RF01          | Manter usuário |
-| RF01.1        | Cadastrar Usuário  |
-| RF01.2        | Alterar Usuário  |
-| RF01.3        | Consultar Usuários        |
-| RF01.4        | Excluir Usuário |
+| RF01          | Manter Cliente |
+| RF01.1        | Cadastrar Cliente  |
+| RF01.2        | Alterar Cliente  |
+| RF01.3        | Consultar Cliente        |
+| RF01.4        | Excluir Cliente |
 
 |                           |                                     |
 | ------------------------- | ----------------------------------- | 
@@ -21,9 +21,9 @@
 | **Tempo Gasto (real):**   |                                     | 
 | **Tamanho Funcional**     | 7 PF                                | 
 | **Analista**              | Ariadny                             | 
-| **Desenvolvedor**         | Riam                                | 
-| **Revisor**               | José                                | 
-| **Testador**              | José                                | 
+| **Desenvolvedor**         | José                                | 
+| **Revisor**               | Riam                                | 
+| **Testador**              | Riam                                | 
 
 | Testes de Aceitação (TA) |  |
 | ----------- | --------- |
@@ -36,19 +36,19 @@
 | TA01.05| Verificar se está suspendendo dados do clientes corretamente. |
 
 
-### User Story US01 - Manter Usuario
+### User Story US02 - Manter Cliente
 
 <table>
   <tr>
-    <th colspan="2" style="text-align:left;background:#e0e0e0;padding:8px;">📌 User Story - US01</th>
+    <th colspan="2" style="text-align:left;background:#e0e0e0;padding:8px;">📌 User Story - US02</th>
   </tr>
   <tr>
     <td style="width:25%;padding:6px;"><strong>Título</strong></td>
-    <td style="padding:6px;">Cadastrar, atualizar, visualizar e deletar dados do usuário.</td>
+    <td style="padding:6px;">Cadastrar, atualizar, visualizar e deletar dados do cliente.</td>
   </tr>
   <tr>
     <td style="padding:6px;"><strong>Identificação</strong></td>
-    <td style="padding:6px;">US01 - Manter usuário</td>
+    <td style="padding:6px;">US02 - Manter cliente</td>
   </tr>
   <tr>
     <td style="padding:6px;"><strong>Story</strong></td>
@@ -65,8 +65,8 @@
     <td style="padding:6px;">
       <ul>
         <li>O sistema deve exibir mensagem de erro caso os dados estejam inválidos.</li>
-        <li>O sistema deve exibir mensagem de usuário inexistente caso ele tente pesquisar um usuário não cadastrado.</li>
-        <li>O sistema deve exibir mensagem de erro caso não consiga deletar usuário.</li>
+        <li>O sistema deve exibir mensagem de cliente inexistente caso ele tente pesquisar um cliente não cadastrado.</li>
+        <li>O sistema deve exibir mensagem de erro caso não consiga deletar cliente.</li>
       </ul>
     </td>
   </tr>
@@ -100,10 +100,10 @@
     <td style="padding:6px;"><strong>Responsáveis</strong></td>
     <td style="padding:6px;">
       <ul>
-        <li><strong>Analista:</strong> Riam</li>
-        <li><strong>Desenvolvedor:</strong> Riam</li>
-        <li><strong>Revisor:</strong> Ariadny</li>
-        <li><strong>Testador:</strong> José</li>
+        <li><strong>Analista:</strong> Ariadny</li>
+        <li><strong>Desenvolvedor:</strong> José</li>
+        <li><strong>Revisor:</strong> Riam</li>
+        <li><strong>Testador:</strong> Riam</li>
       </ul>
     </td>
   </tr>
